@@ -3,7 +3,7 @@ package com.portfolio.Belenher.Controller;
 
 import com.portfolio.Belenher.Entity.Educacion;
 import com.portfolio.Belenher.Security.Controller.Mensaje;
-import com.portfolio.Belenher.Security.Dto.dtoEducacion;
+import com.portfolio.Belenher.Dto.dtoEducacion;
 import com.portfolio.Belenher.Service.Seducacion;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;

@@ -1,5 +1,5 @@
 
-package com.portfolio.Belenher.Security.Dto;
+package com.portfolio.Belenher.Dto;
 
 import javax.validation.constraints.NotBlank;
 
@@ -35,3 +35,4 @@ public class dtoEducacion {
     }
     
 }
+
